@@ -4,7 +4,7 @@ const foodItem= [
     name: 'Poha',
     category : 'Monday',
     rating : 4.3,
-    price: 13,
+     
     // img: 'images/Monday/Ambur-Tuesday-Monday.jpg',
     quantity: 1
 },
@@ -13,7 +13,7 @@ const foodItem= [
     name: 'Rice,Yellow Dal (Lunch)',
     category : 'Monday',
     rating : 4.3,
-    price: 15,
+     
     // img: 'images/Monday/Tuesday-Monday-hyd.jpg',
     quantity: 1
 },
@@ -22,7 +22,7 @@ const foodItem= [
     name: 'Aalu Gobhi Sabzi(Lunch)',
     category : 'Monday',
     rating : 4.3,
-    price: 18,
+    
     // img: 'images/Monday/egg-Monday.jpeg',
     quantity: 1
 },
@@ -31,7 +31,7 @@ const foodItem= [
     name: 'Channa Dal Tadka,Roti,Sewai (Dinner)',
     category : 'Monday',
     rating : 4.3,
-    price: 15,
+     
     img: 'images/Monday/goan-fish-Monday.jpg',
     quantity: 1
 },
@@ -42,7 +42,7 @@ const foodItem= [
     name: 'Aalu k Parathe',
     category : 'Tuesday',
     rating : 4.3,
-    price: 11,
+     
     img: 'images/Tuesday/Tuesday_roast.jpg',
     quantity: 1
 },
@@ -51,7 +51,7 @@ const foodItem= [
     name: 'Idli Sambhar',
     category : 'Tuesday',
     rating : 4.3,
-    price: 10,
+     
     img: 'images/Tuesday/Tuesday-Curry.jpg',
     quantity: 1
 },
@@ -60,7 +60,7 @@ const foodItem= [
     name: 'Mix veg sabzi,Roti(4)',
     category : 'Tuesday',
     rating : 4.3,
-    price: 14,
+     
     img: 'images/Tuesday/Tuesday-do-Pyaza.jpg',
     quantity: 1
 },
@@ -69,7 +69,7 @@ const foodItem= [
     name: 'Custard',
     category : 'Tuesday',
     rating : 4.3,
-    price: 12,
+     
     img: 'images/Tuesday/Tuesday-Masala.jpeg',
     quantity: 1
 },
@@ -79,7 +79,7 @@ const foodItem= [
     name: 'Sooji ka Chilka',
     category : 'Wednesday',
     rating : 4.3,
-    price: 15,
+     
     img: 'images/Wednesday/Matar-Wednesday.jpg',
     quantity: 1
 
@@ -89,7 +89,7 @@ const foodItem= [
     name: 'Rice,Dal Fry, Seasonal Veg,Salad',
     category : 'Wednesday',
     rating : 4.3,
-    price: 10,
+     
     img: 'images/Wednesday/palak-Wednesday.jpg',
     quantity: 1
 },
@@ -98,7 +98,7 @@ const foodItem= [
     name: 'Masala Dosa,Chutney',
     category : 'Wednesday',
     rating : 4.3,
-    price: 15,
+     
     img: 'images/Wednesday/Wednesday-butter-masala.jpg',
     quantity: 1
 
@@ -109,7 +109,7 @@ const foodItem= [
     name: 'Sattu k Parathe',
     category : 'Thursday',
     rating : 4.3,
-    price: 8,
+     
     img: 'images/Thursday/navratan-korma_-Thursday.png',
     quantity: 1
 },
@@ -118,7 +118,7 @@ const foodItem= [
     name: 'Veg Biriyani,Dahi',
     category : 'Thursday',
     rating : 4.3,
-    price: 7,
+     
     img: 'images/Thursday/VEG-JALFREZI.jpg',
     quantity: 1
 },
@@ -127,7 +127,7 @@ const foodItem= [
     name: 'Dal Bhari Pooriyan(5),Kheer',
     category : 'Thursday',
     rating : 4.3,
-    price: 5,
+     
     img: 'images/Thursday/Thursday-Monday.jpg',
     quantity: 1
 },
@@ -137,7 +137,7 @@ const foodItem= [
     name: 'Poori Aaloo ki Sabzi',
     category : 'Friday',
     rating : 4.3,
-    price: 8,
+     
     img: 'images/Friday/cabbage-momos-.jpg',
     quantity: 1
 },
@@ -146,7 +146,7 @@ const foodItem= [
     name: 'Rice, Palak Dal, Lauki Kofta,khat Mithi',
     category : 'Friday',
     rating : 4.3,
-    price: 7,
+     
     img: 'images/Friday/TuesdayManchurian.jpg',
     quantity: 1
 },
@@ -155,7 +155,7 @@ const foodItem= [
     name: 'Kadhai Paneer,Roti(4),Besan ka Halwa',
     category : 'Friday',
     rating : 4.3,
-    price: 5,
+     
     img: 'images/Friday/Chili-Tuesday.jpg',
     quantity: 1
 },
@@ -165,7 +165,7 @@ const foodItem= [
     name: 'Besan ka Chila',
     category : 'Saturday',
     rating : 4.3,
-    price: 18,
+     
     img: 'images/Saturday/Butter-Masala-Dosa.png',
     quantity: 1
 },
@@ -174,7 +174,7 @@ const foodItem= [
     name: 'Khichdi, Dahi, Mix Achaar',
     category : 'Saturday',
     rating : 4.3,
-    price: 20,
+     
     img: 'images/Saturday/idli-with-rice-flour.jpg',
     quantity: 1
 },
@@ -183,7 +183,7 @@ const foodItem= [
     name: 'Chole Bhature',
     category : 'Saturday',
     rating : 4.3,
-    price: 12,
+     
     img: 'images/Saturday/masala-dosa.jpg',
     quantity: 1
 },
@@ -192,7 +192,7 @@ const foodItem= [
     name: 'Aloo Toast',
     category : 'Sunday',
     rating : 4.3,
-    price: 10,
+     
     img: 'images/Saturday/mysore-bonda.jpg',
     quantity: 1
 },
@@ -201,7 +201,7 @@ const foodItem= [
     name: 'Rice,Dal Fry,Corn Palak, Raita',
     category : 'Sunday',
     rating : 4.3,
-    price: 15,
+     
     img: 'images/Saturday/onion-uttapam.jpg',
     quantity: 1
 },
@@ -210,7 +210,7 @@ const foodItem= [
     name: 'Litti Chokha',
     category : 'Sunday',
     rating : 4.3,
-    price: 40,
+     
     img: 'images/Saturday/plain-dosa.jpeg',
     quantity: 1
 },
