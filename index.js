@@ -48,7 +48,7 @@ function displayItems(){
 
         var itemPrice= document.createElement('p');
         itemPrice.setAttribute('id','item-price');
-        itemPrice.innerText= 'Price : $ ' + item.price;
+       
 
         itemCard.appendChild(cardTop);
         itemCard.appendChild(img);
@@ -89,7 +89,7 @@ function displayItems(){
 
         var itemPrice= document.createElement('p');
         itemPrice.setAttribute('id','item-price');
-        itemPrice.innerText= 'Price : $ ' + item.price;
+       
 
         itemCard.appendChild(cardTop);
         itemCard.appendChild(img);
@@ -129,7 +129,7 @@ function displayItems(){
 
         var itemPrice= document.createElement('p');
         itemPrice.setAttribute('id','item-price');
-        itemPrice.innerText= 'Price : $ ' + item.price;
+       
 
         itemCard.appendChild(cardTop);
         itemCard.appendChild(img);
@@ -169,7 +169,7 @@ function displayItems(){
 
         var itemPrice= document.createElement('p');
         itemPrice.setAttribute('id','item-price');
-        itemPrice.innerText= 'Price : $ ' + item.price;
+       
 
         itemCard.appendChild(cardTop);
         itemCard.appendChild(img);
@@ -210,7 +210,7 @@ function displayItems(){
 
         var itemPrice= document.createElement('p');
         itemPrice.setAttribute('id','item-price');
-        itemPrice.innerText= 'Price : $ ' + item.price;
+       
 
         itemCard.appendChild(cardTop);
         itemCard.appendChild(img);
@@ -250,7 +250,7 @@ function displayItems(){
 
         var itemPrice= document.createElement('p');
         itemPrice.setAttribute('id','item-price');
-        itemPrice.innerText= 'Price : $ ' + item.price;
+       
 
         itemCard.appendChild(cardTop);
         itemCard.appendChild(img);
@@ -292,7 +292,7 @@ function displayItems(){
 
         var itemPrice= document.createElement('p');
         itemPrice.setAttribute('id','item-price');
-        itemPrice.innerText= 'Price : $ ' + item.price;
+       
 
         itemCard.appendChild(cardTop);
         itemCard.appendChild(img);

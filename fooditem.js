@@ -5,26 +5,25 @@ const foodItem= [
     category : 'Monday',
     rating : 4.3,
      
-    // img: 'images/Monday/Ambur-Tuesday-Monday.jpg',
+    img: 'images/poha.jpeg',
     quantity: 1
 },
 {
     id: 2,
-    name: 'Rice,Yellow Dal,Aalu Gobhi Sabzi (Lunch)',
+    name: 'Rice,Yellow Dal,Aalu Gobhi Sabzi',
     category : 'Monday',
     rating : 4.3,
      
-    // img: 'images/Monday/Tuesday-Monday-hyd.jpg',
+    img: 'images/dalchawal.jpeg',
     quantity: 1
 },
 
 {
     id: 4,
-    name: 'Channa Dal Tadka,Roti,Sewai (Dinner)',
+    name: 'Channa Dal Tadka,Roti,Sewai',
     category : 'Monday',
     rating : 4.3,
-     
-    img: 'images/Monday/goan-fish-Monday.jpg',
+    img: 'images/rotii.jpeg',
     quantity: 1
 },
 
@@ -35,7 +34,7 @@ const foodItem= [
     category : 'Tuesday',
     rating : 4.3,
      
-    img: 'images/Tuesday/Tuesday_roast.jpg',
+    img: 'images/aaluparatha.jpeg',
     quantity: 1
 },
 {
@@ -44,16 +43,16 @@ const foodItem= [
     category : 'Tuesday',
     rating : 4.3,
      
-    img: 'images/Tuesday/Tuesday-Curry.jpg',
+    img: 'images/idli.jpeg',
     quantity: 1
 },
 {
     id: 12,
-    name: 'Mix veg sabzi,Roti(4),Custard',
+    name: 'Mix sabzi,Roti,Custard',
     category : 'Tuesday',
     rating : 4.3,
      
-    img: 'images/Tuesday/Tuesday-do-Pyaza.jpg',
+    img: 'images/seasonal.jpeg',
     quantity: 1
 },
 
@@ -64,7 +63,7 @@ const foodItem= [
     category : 'Wednesday',
     rating : 4.3,
      
-    img: 'images/Wednesday/Matar-Wednesday.jpg',
+    img: 'images/chila2.jpeg',
     quantity: 1
 
 },
@@ -74,7 +73,7 @@ const foodItem= [
     category : 'Wednesday',
     rating : 4.3,
      
-    img: 'images/Wednesday/palak-Wednesday.jpg',
+    img: 'images/dalchaal.jpeg',
     quantity: 1
 },
 {
@@ -83,7 +82,7 @@ const foodItem= [
     category : 'Wednesday',
     rating : 4.3,
      
-    img: 'images/Wednesday/Wednesday-butter-masala.jpg',
+    img: 'images/dosa.jpeg',
     quantity: 1
 
 },
@@ -94,7 +93,7 @@ const foodItem= [
     category : 'Thursday',
     rating : 4.3,
      
-    img: 'images/Thursday/navratan-korma_-Thursday.png',
+    img: 'images/chila2.jpeg',
     quantity: 1
 },
 {
@@ -103,7 +102,7 @@ const foodItem= [
     category : 'Thursday',
     rating : 4.3,
      
-    img: 'images/Thursday/VEG-JALFREZI.jpg',
+    img: 'images/rice.jpeg',
     quantity: 1
 },
 {
@@ -112,7 +111,7 @@ const foodItem= [
     category : 'Thursday',
     rating : 4.3,
      
-    img: 'images/Thursday/Thursday-Monday.jpg',
+    img: 'images/purisabji.jpeg',
     quantity: 1
 },
 
@@ -122,25 +121,25 @@ const foodItem= [
     category : 'Friday',
     rating : 4.3,
      
-    img: 'images/Friday/cabbage-momos-.jpg',
+    img: 'images/purisabji.jpeg',
     quantity: 1
 },
 {
     id: 31,
-    name: 'Rice, Palak Dal, Lauki Kofta,khat Mithi',
+    name: 'Rice, Palak Dal,Lauki Kofta,khat Mithi',
     category : 'Friday',
     rating : 4.3,
      
-    img: 'images/Friday/TuesdayManchurian.jpg',
+    img: 'images/kofta.jpeg',
     quantity: 1
 },
 {
     id: 32,
-    name: 'Kadhai Paneer,Roti(4),Besan ka Halwa',
+    name: 'Kadhai Paneer,Roti,Besan ka Halwa',
     category : 'Friday',
     rating : 4.3,
      
-    img: 'images/Friday/Chili-Tuesday.jpg',
+    img: 'images/paneer.jpeg',
     quantity: 1
 },
 
@@ -150,7 +149,7 @@ const foodItem= [
     category : 'Saturday',
     rating : 4.3,
      
-    img: 'images/Saturday/Butter-Masala-Dosa.png',
+    img: 'images/chila2.jpeg',
     quantity: 1
 },
 {
@@ -159,7 +158,7 @@ const foodItem= [
     category : 'Saturday',
     rating : 4.3,
      
-    img: 'images/Saturday/idli-with-rice-flour.jpg',
+    img: 'images/dalchaal.jpeg',
     quantity: 1
 },
 {
@@ -168,7 +167,7 @@ const foodItem= [
     category : 'Saturday',
     rating : 4.3,
      
-    img: 'images/Saturday/masala-dosa.jpg',
+    img: 'images/cholebhature.jpeg',
     quantity: 1
 },
 {
@@ -177,7 +176,7 @@ const foodItem= [
     category : 'Sunday',
     rating : 4.3,
      
-    img: 'images/Saturday/mysore-bonda.jpg',
+    img: 'images/aaluroti.jpeg',
     quantity: 1
 },
 {
@@ -186,7 +185,7 @@ const foodItem= [
     category : 'Sunday',
     rating : 4.3,
      
-    img: 'images/Saturday/onion-uttapam.jpg',
+    img: 'images/dalchawal.jpeg',
     quantity: 1
 },
 {
@@ -195,7 +194,7 @@ const foodItem= [
     category : 'Sunday',
     rating : 4.3,
      
-    img: 'images/Saturday/plain-dosa.jpeg',
+    img: 'images/littti.jpeg',
     quantity: 1
 },
 
