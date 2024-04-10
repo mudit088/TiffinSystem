@@ -10,22 +10,14 @@ const foodItem= [
 },
 {
     id: 2,
-    name: 'Rice,Yellow Dal (Lunch)',
+    name: 'Rice,Yellow Dal,Aalu Gobhi Sabzi (Lunch)',
     category : 'Monday',
     rating : 4.3,
      
     // img: 'images/Monday/Tuesday-Monday-hyd.jpg',
     quantity: 1
 },
-{
-    id: 3,
-    name: 'Aalu Gobhi Sabzi(Lunch)',
-    category : 'Monday',
-    rating : 4.3,
-    
-    // img: 'images/Monday/egg-Monday.jpeg',
-    quantity: 1
-},
+
 {
     id: 4,
     name: 'Channa Dal Tadka,Roti,Sewai (Dinner)',
@@ -57,22 +49,14 @@ const foodItem= [
 },
 {
     id: 12,
-    name: 'Mix veg sabzi,Roti(4)',
+    name: 'Mix veg sabzi,Roti(4),Custard',
     category : 'Tuesday',
     rating : 4.3,
      
     img: 'images/Tuesday/Tuesday-do-Pyaza.jpg',
     quantity: 1
 },
-{
-    id: 13,
-    name: 'Custard',
-    category : 'Tuesday',
-    rating : 4.3,
-     
-    img: 'images/Tuesday/Tuesday-Masala.jpeg',
-    quantity: 1
-},
+
 
 {
     id: 16,
